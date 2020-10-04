@@ -5,6 +5,6 @@ void main(){
 	printf("Enter an integer:");
 	scanf("%d",&a);
 	b=(float)a;
-	printf("Float: %f",b);
+	printf("Number after converting to float: %f",b);
 }
 
